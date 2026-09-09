@@ -12,7 +12,10 @@ The purpose of this project is to help students manage their study time and keep
 
 ## Main Features
 
-*Add and organize study tasks
-*Organize tasks by subject
-*Set deadlines for tasks
+* Add and organize study tasks
+* Organize tasks by subject
+* Set deadlines for tasks
+* Mark completed tasks
+* View the study schedule
+
 
